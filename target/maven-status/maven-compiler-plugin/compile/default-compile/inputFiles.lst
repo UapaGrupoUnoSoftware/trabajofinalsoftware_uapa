@@ -1,1 +1,7 @@
-/Users/joanvasquez/eclipse-workspace/com.uapa.software/src/main/java/com/uapa/software/Main.java
+/Users/joanvasquez/eclipse-workspace/trabajofinalsoftware_uapa/src/main/java/com/uapa/software/Main.java
+/Users/joanvasquez/eclipse-workspace/trabajofinalsoftware_uapa/src/main/java/com/uapa/software/models/Project.java
+/Users/joanvasquez/eclipse-workspace/trabajofinalsoftware_uapa/src/main/java/com/uapa/software/models/Rol.java
+/Users/joanvasquez/eclipse-workspace/trabajofinalsoftware_uapa/src/main/java/com/uapa/software/models/Task.java
+/Users/joanvasquez/eclipse-workspace/trabajofinalsoftware_uapa/src/main/java/com/uapa/software/models/User.java
+/Users/joanvasquez/eclipse-workspace/trabajofinalsoftware_uapa/src/main/java/com/uapa/software/repositories/IRepository.java
+/Users/joanvasquez/eclipse-workspace/trabajofinalsoftware_uapa/src/main/java/com/uapa/software/utils/HibernateUtil.java
